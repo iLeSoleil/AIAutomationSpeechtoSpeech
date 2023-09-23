@@ -7,9 +7,21 @@ This application allows users to interact via voice or text input, leveraging a 
 
 # Features :
 
-Voice Recognition: Built on Microsoft's Cognitive Services SDK for continuous voice recognition.
-Conversational AI: Utilizes OpenAI's GPT model for chatbot functionality.
-Text-to-Speech: Employs Eleven Labs API to read chatbot responses aloud.
-Appointment Scheduling: Automatically books appointments and checks for availability.
-Firebase Integration: Uses Firebase for database and user authentication.
-Natural Language Date Parsing: Parses natural language to find date and time for appointments.
+🎙️ Voice Recognition
+
+Built on Microsoft's Cognitive Services SDK for continuous voice recognition.
+🤖 Conversational AI
+
+Utilizes OpenAI's GPT model for chatbot functionality.
+🗨️ Text-to-Speech
+
+Employs Eleven Labs API to read chatbot responses aloud.
+📅 Appointment Scheduling
+
+Automatically books appointments and checks for availability.
+🔥 Firebase Integration
+
+Uses Firebase for database and user authentication.
+🕒 Natural Language Date Parsing
+
+Parses natural language to find date and time for appointments.
