@@ -1,5 +1,5 @@
 # AIAutomationSpeechtoSpeech
-Those are code snippets from an A.I. driven speech to speech automated booking service
+This is a code snippet from my speech to speech automated booking system. A Video demonstration you can find on my Portfolio Website.
 
 # Overview : 
 
